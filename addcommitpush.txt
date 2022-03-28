@@ -1,3 +1,9 @@
+
+
 this is the test file for Add commit and puch command 
 
 now I am adding more test as a second time editing.
+
+adding 3rd line for editing testing. adding
+
+same file is in statging area and I am again editing the file.
